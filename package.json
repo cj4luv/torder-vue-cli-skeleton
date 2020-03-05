@@ -15,7 +15,9 @@
     "vue-axios": "^2.1.5",
     "vue-cookies": "^1.7.0",
     "vue-router": "^3.1.6",
-    "vuex": "^3.1.2"
+    "vue-socket.io": "^3.0.7",
+    "vuex": "^3.1.2",
+    "vuex-persistedstate": "^2.7.1"
   },
   "devDependencies": {
     "@babel/plugin-proposal-nullish-coalescing-operator": "^7.8.3",
